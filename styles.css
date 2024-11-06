@@ -38,3 +38,17 @@ body {
   cursor: pointer;
   transition: background-color 0.2s;
 }
+.button:hover {
+  background-color: rgb(61, 60, 60);
+}
+
+.AC {
+  grid-column: span 2;
+}
+.zero {
+  grid-column: span 2;
+}
+.sign {
+  background-color: rgb(230, 123, 23);
+  color: #fff;
+}
